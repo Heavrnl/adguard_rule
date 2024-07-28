@@ -1,3 +1,4 @@
+! Title: custom_rule
 !个人自用，目前只拦截b站的pdcn
 
 ||mcdn.bilivideo.cn^
