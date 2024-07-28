@@ -1,5 +1,6 @@
 ! Title: custom_rule
-!个人自用，目前只拦截b站的pdcn
+! Description: 个人自用
 
 ||mcdn.bilivideo.cn^
 ||szbdyd.com^
+||51.la^
