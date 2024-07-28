@@ -1,0 +1,4 @@
+!个人自用，目前只拦截b站的pdcn
+
+||mcdn.bilivideo.cn^
+||szbdyd.com^
